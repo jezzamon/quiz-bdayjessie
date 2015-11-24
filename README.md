@@ -1,3 +1,6 @@
+﻿Jess bday quiz 
+=========Taking the codrops slideshow wobble effect and refactoring it to make it into a quiz for a special person's birthday :)
+
 Wobbly Slideshow Effect
 =========
 
@@ -14,3 +17,4 @@ Read more here: [License](http://tympanus.net/codrops/licensing/)
 Icons by [Pixel Buddha](http://pixelbuddha.net/)
 
 [© Codrops 2014](http://www.codrops.com)
+
