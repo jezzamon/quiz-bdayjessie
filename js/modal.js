@@ -6,7 +6,8 @@ $(document).ready(function() {
     
     $(".questions").on("click","a", function(event) {
     event.preventDefault();
-    var $video = $(this).data("vidsource");
+//    var $video = $(this).data("vidsource");
+	  var $video = "vid/Cycling-Santa.mp4";
     if ($(this).hasClass("correct")) {
        $("#overlay").fadeIn("slow","linear");
         $("#"+videoID).get(0).pause();
